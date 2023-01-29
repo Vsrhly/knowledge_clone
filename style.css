@@ -191,6 +191,12 @@ ul {
   margin-right: 18px;
 }
 
+/* Special classes */
+
+.hidden {
+  display: none !important;
+}
+
 /* MEDIA */
 
 @media (max-width: 1200px) {
